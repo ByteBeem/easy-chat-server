@@ -1,0 +1,24 @@
+{
+  "name": "easy-chat-server",
+  "version": "1.0.0",
+  "description": "easy chat server in node js module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bytebeem/easy-chat-server.git"
+  },
+  "keywords": [
+    "chat",
+    "server",
+    "nodejs"
+  ],
+  "author": "Donald Mxolisi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bytebeem/easy-chat-server/issues"
+  },
+  "homepage": "https://github.com/bytebeem/easy-chat-server#readme"
+}
